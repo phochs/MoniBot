@@ -1,0 +1,7 @@
+{
+  "token": "token",
+  "port": 9100,
+  "nicknames": {
+    "guild ID": "nickname"
+  }
+}

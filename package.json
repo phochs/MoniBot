@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "async": "^2.6.2",
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "prom-client": "^11.2.1"
+  }
+}

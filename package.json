@@ -2,7 +2,11 @@
   "dependencies": {
     "async": "^2.6.2",
     "discord.js": "^11.4.2",
+    "eventemitter2": "^5.0.1",
     "express": "^4.16.4",
+    "extends-classes": "^1.0.5",
+    "method-missing": "^1.1.2",
+    "moment": "^2.24.0",
     "prom-client": "^11.2.1"
   }
 }

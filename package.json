@@ -14,7 +14,7 @@
     "url": "https://github.com/phochs/MoniBot.git"
   },
   "dependencies": {
-    "async": "2.x",
+    "async": "3.x",
     "discord.js": "11.x",
     "express": "4.x",
     "moment": "2.x",
